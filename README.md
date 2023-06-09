@@ -2,6 +2,8 @@
 <h3 align="center">Being a software engineer and committed my best to the society</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesareen&label=Profile%20views&color=0e75b6&style=flat" alt="thesareen" /> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/liza-sareen-1907a2270/" target="blank"><img src="<p align="left"> <a href="https://www.linkedin.com/in/liza-sareen-1907a2270/" target="blank"><img src="https://img.shields.io/twitter/follow/saumya_vatsaa?logo=twitter&style=for-the-badge" alt="saumya_vatsaa" /></a> </p>
+" /></a> </p>
 
 - 🌎 I'm based in **India**
 
