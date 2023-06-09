@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesareen&label=Profile%20views&color=0e75b6&style=flat" alt="thesareen" /> </p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/liza-sareen-1907a2270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liza-sareen-1907a2270/" height="30" width="40" /></a>
+
 - 🌎 I'm based in **India**
 
 - 👨‍🎓 I’m currently learning **Machine Learning , data structures and algorithms**
