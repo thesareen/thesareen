@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liza Sareen</h1>
 <h3 align="center">Being a software engineer and committed my best to the society</h3>
-<img align="right" alt="coding" width="400" src="[https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)">
+<img align="right" alt="coding" width="400" src="[[https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesareen&label=Profile%20views&color=0e75b6&style=flat" alt="thesareen" /> </p>
 
 - 🌎 I'm based in **India**
