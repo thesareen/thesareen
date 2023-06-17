@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thesareen](https://github.com/thesareen)
 
-- 💬 Ask me about **Web Development ,Data Analytics and EDA**
+- 💬 Would like to code more about **Web Development ,Data Analytics and EDA**
 
 - 👣 How to reach me **sareen.l@yahoo.com**
 
