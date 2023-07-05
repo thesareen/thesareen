@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I’m currently learning **Machine Learning , data structures and algorithms**
 
-- 🤝 I’m looking to collaborate on **any Web Development based projects**
+- 🤝 I’m looking to collaborate on **any Web Development based projects and content marketing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thesareen](https://github.com/thesareen)
 
